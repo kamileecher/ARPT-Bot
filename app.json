@@ -1,0 +1,50 @@
+{
+	"name": "ARPT bot",
+	"description": "Run telegram bot on heroku",
+	"repository": "https://github.com/kamileecher/ARPT-Bot",
+	"keywords": ["telegram"],
+	"stack": "container",
+	"env": {
+			"Remote": {
+				"description": "Hedef rclone sürücü harfini yükleyin",
+				"value": ""
+			},
+			"Aria2_secret": {
+				"description": "Aria2'nin Secret",
+				"value": ""
+			},
+			"Rclone": {
+				"description": "Rclone .conf",
+				"value": ""
+			},
+			"PORT": {
+				"description": "Default 8868",
+				"value": ""
+			},
+			"Upload": {
+				"description": "Klasör adını yükleyin Orn: ARPT",
+				"value": ""
+			},
+			"Telegram_user_id": {
+				"description": "TG User id",
+				"value": ""
+			},
+			"Telegram_bot_api": {
+				"description": "TGBot API",
+				"value": ""
+			},
+			"Api_hash": {
+				"description": "TG API_HASH",
+				"value":""
+			},
+			"Rclone_share": {
+				"description": "İndirme tamamlandığında bir paylaşım bağlantısı verilip verilmeyeceği True/False",
+				"value":""
+			},
+			"Api_id": {
+				"description": "TG API_ID",
+				"value":""
+			}
+		}
+	
+}
