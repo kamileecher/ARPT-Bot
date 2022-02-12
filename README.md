@@ -136,7 +136,7 @@ Ana işlev:
 
 
 # <p align=center>```ARPT-Heroku```</p>
-<p align=center><a href="https://dashboard.heroku.com/new?button-url=https://github.com/kamileecher/TEST/Rclone-Heroku&template=https://github.com/kamileecher/TEST"><img src="https://www.herokucdn.com/deploy/button.svg" width="200"></a></p>
+<p align=center><a href="https://dashboard.heroku.com/new?button-url=https://github.com/kamileecher/ARPT-Bot&template=https://github.com/kamileecher/ARPT-Bot"><img src="https://www.herokucdn.com/deploy/button.svg" width="200"></a></p>
 
 > 1. Tek zorluk, [buradan](https://my.telegram.org) başvuruyu kaydettikten sonra TG'nin APP kimliği ve hash'i için başvurmak olabilir.
 > 2. Telegram_user_id Kullanıcının @userinfobot'tan alınabilecek TG kimliği.Grup kimliğine ayarlanırsa, grubun tüm üyeleri kullanılabilir olacaktır.Bot'un grup iznini ayarlamanız gerekir
